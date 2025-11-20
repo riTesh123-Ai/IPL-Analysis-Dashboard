@@ -1,0 +1,33 @@
+# IPL Analysis Project
+
+A simple project where I analyze IPL data using Python. The project includes cleaning the dataset, exploring important insights, and visualizing results.
+
+## 📌 What This Project Includes
+
+* Loading IPL datasets (matches & deliveries)
+* Cleaning and preprocessing data
+* Finding top teams and players
+* Creating basic visualizations
+
+## 🔧 Technologies Used
+
+* Python
+* Pandas & NumPy
+* power bi
+
+## 📂 Folder Structure
+
+```
+IPL-Analysis/
+│-- data/
+│-- images/
+│-- README.md
+```
+
+
+## 📊 Insights
+
+* Top teams
+* Top batsmen and bowlers
+* Toss decisions
+* Venue performance
